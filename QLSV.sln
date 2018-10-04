@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "QLSV\Presentation.csproj", "{5D267931-7560-4049-8C00-A5CA8819692E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{3CB030CE-F2AE-4E5F-995A-8263E1E0ED55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{6F934739-1ED0-4414-848C-260D97244246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D267931-7560-4049-8C00-A5CA8819692E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D267931-7560-4049-8C00-A5CA8819692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D267931-7560-4049-8C00-A5CA8819692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D267931-7560-4049-8C00-A5CA8819692E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB030CE-F2AE-4E5F-995A-8263E1E0ED55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB030CE-F2AE-4E5F-995A-8263E1E0ED55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB030CE-F2AE-4E5F-995A-8263E1E0ED55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB030CE-F2AE-4E5F-995A-8263E1E0ED55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F934739-1ED0-4414-848C-260D97244246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F934739-1ED0-4414-848C-260D97244246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F934739-1ED0-4414-848C-260D97244246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F934739-1ED0-4414-848C-260D97244246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
